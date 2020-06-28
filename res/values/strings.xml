@@ -139,6 +139,7 @@
     <!-- Battery Styles -->
     <string name="battery_style_category_title">Battery</string>
     <string name="battery_percent_title">Battery percent</string>
+    <string name="battery_percentage_percentage_estimate">Enabled (percent | estimate)</string>
 
     <!-- Status bar - Battery -->
     <string name="status_bar_battery_style_title">Battery style</string>
